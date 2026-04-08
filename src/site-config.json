@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Arrow Roofing and Siding",
+    "phone": "+16147777663",
+    "category": "siding contractor",
+    "city": "Columbus",
+    "state": "OH"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Columbus' Siding Experts",
+      "heroSubline": "Protecting homes with quality siding installation and repair. Serving Columbus, Dublin, Westerville, and beyond.",
+      "aboutTitle": "Built on Integrity, Driven by Results",
+      "aboutText": [
+        "Arrow Roofing and Siding started with a simple goal: to provide Columbus homeowners with durable, beautiful siding solutions they can rely on. We're a local company, not a franchise, and we take pride in our reputation for quality workmanship and honest service.",
+        "Our approach is straightforward: we listen to your needs, assess your home's specific challenges (like Columbus' freeze-thaw cycles and clay soil shifts), and recommend the best siding options for your budget and style. No high-pressure sales, just expert advice.",
+        "We're deeply committed to the Columbus community. From sponsoring local youth sports teams to volunteering with Habitat for Humanity, we believe in giving back to the neighborhoods we serve. We're not just building better homes; we're building a better community."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Columbus' climate and housing styles, ensuring the right siding for your home."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We only use premium siding products from trusted manufacturers, built to last."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our skilled team ensures precise installation for maximum protection and curb appeal."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide clear, detailed estimates with no hidden fees or surprises."
+        }
+      ],
+      "ctaHeadline": "Protect Your Home Today",
+      "ctaSubline": "Get a free, no-obligation siding estimate from Arrow Roofing and Siding."
+    },
+    "services": [
+      {
+        "slug": "vinyl-siding-installation",
+        "name": "Vinyl Siding Installation",
+        "shortDescription": "Durable, affordable, and stylish vinyl siding solutions for Columbus homes.",
+        "description": "Vinyl siding remains a popular choice for Columbus homeowners due to its affordability, durability, and versatility. It's resistant to moisture, insects, and fading, making it ideal for Ohio's fluctuating weather. We offer a wide range of vinyl siding styles, colors, and textures to complement any home's architectural design, from classic Colonial to modern ranch. Our expert installation ensures a seamless, weather-tight fit that will protect your home for years to come.\n\nWe handle everything from removing old siding to installing new house wrap and trim. We also pay close attention to detail, ensuring proper sealing around windows, doors, and other openings to prevent water damage and energy loss. Plus, vinyl siding requires minimal maintenance, saving you time and money in the long run.\n\nOur vinyl siding installation process includes a full home inspection to assess any existing damage and ensure a solid foundation for the new siding. We use only premium-grade vinyl siding products from trusted manufacturers, guaranteeing long-lasting performance and beauty. Arrow Roofing and Siding can transform the look and value of your home with beautiful and durable vinyl siding.",
+        "process": [
+          "Step 1: Thorough inspection of existing siding and substrate.",
+          "Step 2: Removal of old siding and disposal.",
+          "Step 3: Installation of house wrap for moisture protection.",
+          "Step 4: Precise installation of vinyl siding panels and trim."
+        ],
+        "benefits": [
+          "Affordable and cost-effective",
+          "Low maintenance and easy to clean",
+          "Wide variety of styles and colors",
+          "Resists moisture, insects, and fading"
+        ],
+        "faq": [
+          {
+            "question": "How long does vinyl siding last in Columbus' climate?",
+            "answer": "With proper installation and maintenance, vinyl siding can last for 20-30 years or more in Columbus. Look for insulated vinyl siding to increase energy efficiency."
+          },
+          {
+            "question": "Can vinyl siding increase my home's value?",
+            "answer": "Yes, new vinyl siding can significantly improve your home's curb appeal and increase its resale value. Choose a style and color that complements your home's architecture."
+          },
+          {
+            "question": "Is vinyl siding environmentally friendly?",
+            "answer": "Vinyl siding is recyclable, and many manufacturers use recycled materials in their products. It also helps improve energy efficiency, reducing your home's carbon footprint."
+          }
+        ]
+      },
+      {
+        "slug": "fiber-cement-siding-installation",
+        "name": "Fiber Cement Siding Installation",
+        "shortDescription": "Durable and beautiful fiber cement siding, expertly installed for lasting protection.",
+        "description": "Fiber cement siding, like James Hardie, provides exceptional durability and a natural wood-like appearance. It's resistant to fire, pests, and rot, making it a smart choice for Columbus homeowners who want long-lasting protection and curb appeal. Fiber cement siding can withstand Ohio's harsh weather conditions, from freezing winters to humid summers, without warping, cracking, or fading.\n\nArrow Roofing and Siding offers a wide selection of fiber cement siding styles and colors to match your home's aesthetic. Our experienced installers ensure a precise and professional installation, paying attention to every detail to maximize performance and longevity. We handle everything from framing repairs to painting and sealing, delivering a complete and worry-free siding solution.\n\nFiber cement siding requires minimal maintenance and can significantly increase your home's value. It's also a sustainable choice, as it's made from natural materials and has a long lifespan. We'll help you explore the different fiber cement siding options and choose the perfect product for your home's style and budget. We take pride in delivering exceptional quality and customer satisfaction.",
+        "process": [
+          "Step 1: Detailed assessment of your home's siding needs.",
+          "Step 2: Removal of existing siding and preparation of the substrate.",
+          "Step 3: Precise cutting and installation of fiber cement siding panels.",
+          "Step 4: Caulking, sealing, and painting for a finished look."
+        ],
+        "benefits": [
+          "Exceptional durability and longevity",
+          "Resistant to fire, pests, and rot",
+          "Natural wood-like appearance",
+          "Increases home value"
+        ],
+        "faq": [
+          {
+            "question": "How long does fiber cement siding last?",
+            "answer": "Fiber cement siding can last for 50 years or more with proper installation and maintenance. It's a long-term investment that will protect your home for decades."
+          },
+          {
+            "question": "Does fiber cement siding require painting?",
+            "answer": "Yes, fiber cement siding typically requires painting or pre-finished coating. We offer a variety of colors and finishes to match your home's style."
+          },
+          {
+            "question": "Is fiber cement siding more expensive than vinyl siding?",
+            "answer": "Yes, fiber cement siding is generally more expensive than vinyl siding, but it offers superior durability and longevity, making it a worthwhile investment for many homeowners."
+          }
+        ]
+      },
+      {
+        "slug": "siding-repair",
+        "name": "Siding Repair Services",
+        "shortDescription": "Expert siding repair to fix damage and protect your Columbus home.",
+        "description": "Damaged siding can compromise your home's protection from the elements and detract from its curb appeal. Arrow Roofing and Siding offers comprehensive siding repair services to address a wide range of issues, including cracks, holes, rot, and loose panels. We understand the unique challenges that Columbus' climate poses to siding, such as freeze-thaw cycles and wind damage.\n\nOur experienced technicians will assess the damage and recommend the most effective repair solutions. We work with all types of siding materials, including vinyl, fiber cement, wood, and metal. We use high-quality materials and proven techniques to ensure lasting repairs that blend seamlessly with your existing siding.\n\nDon't let minor siding damage turn into a major problem. Contact Arrow Roofing and Siding for prompt and reliable siding repair services. We'll restore your home's protection and beauty, preventing further damage and saving you money in the long run. We provide free estimates and stand behind our work with a satisfaction guarantee.",
+        "process": [
+          "Step 1: Thorough inspection of the damaged siding.",
+          "Step 2: Removal of damaged panels or sections.",
+          "Step 3: Repair or replacement of damaged framing or substrate.",
+          "Step 4: Installation of new siding panels and sealing."
+        ],
+        "benefits": [
+          "Prevents further damage",
+          "Restores curb appeal",
+          "Extends siding lifespan",
+          "Saves money on costly replacements"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my siding needs repair?",
+            "answer": "Look for signs of damage, such as cracks, holes, rot, loose panels, or fading. Also, check for water stains or mold growth on interior walls, which could indicate a siding leak."
+          },
+          {
+            "question": "Can you repair siding that has been damaged by pests?",
+            "answer": "Yes, we can repair siding that has been damaged by pests, such as termites or carpenter ants. We'll also address the underlying pest problem to prevent further damage."
+          },
+          {
+            "question": "How long does siding repair take?",
+            "answer": "The duration of siding repair depends on the extent of the damage and the type of siding. We'll provide you with an estimated timeline during the initial consultation."
+          }
+        ]
+      },
+      {
+        "slug": "siding-replacement",
+        "name": "Siding Replacement",
+        "shortDescription": "Upgrade your home with new siding for enhanced protection and beauty.",
+        "description": "When siding is beyond repair or you're looking to update your home's appearance, Arrow Roofing and Siding offers complete siding replacement services. We'll help you choose the perfect siding material and style to enhance your home's curb appeal, improve its energy efficiency, and increase its value. We understand the importance of selecting the right siding for Columbus' climate and architectural styles.\n\nWe offer a wide range of siding options, including vinyl, fiber cement, wood, and metal. Our experienced team will handle every aspect of the replacement process, from removing old siding to installing new house wrap, trim, and siding panels. We pay close attention to detail, ensuring a seamless and weather-tight installation that will protect your home for years to come.\n\nSiding replacement is a significant investment, but it can provide long-term benefits, including reduced energy costs, increased home value, and improved protection from the elements. Arrow Roofing and Siding is committed to delivering exceptional quality and customer satisfaction. We provide free estimates and offer financing options to make siding replacement more affordable.",
+        "process": [
+          "Step 1: Consultation and selection of new siding material.",
+          "Step 2: Removal of old siding and disposal.",
+          "Step 3: Inspection and repair of underlying structure.",
+          "Step 4: Installation of new house wrap, trim, and siding."
+        ],
+        "benefits": [
+          "Enhanced curb appeal",
+          "Improved energy efficiency",
+          "Increased home value",
+          "Long-lasting protection"
+        ],
+        "faq": [
+          {
+            "question": "How much does siding replacement cost?",
+            "answer": "The cost of siding replacement depends on the size of your home, the type of siding you choose, and the complexity of the installation. We'll provide you with a detailed estimate after assessing your home's needs."
+          },
+          {
+            "question": "How long does siding replacement take?",
+            "answer": "Siding replacement typically takes 1-2 weeks, depending on the size of your home and the weather conditions. We'll keep you informed throughout the process."
+          },
+          {
+            "question": "Do I need a permit for siding replacement?",
+            "answer": "In some cases, a permit may be required for siding replacement. We'll handle the permit process for you to ensure compliance with local regulations."
+          }
+        ]
+      },
+      {
+        "slug": "soffit-and-fascia-services",
+        "name": "Soffit and Fascia Services",
+        "shortDescription": "Protect your roof and home with expert soffit and fascia installation and repair.",
+        "description": "Soffit and fascia are essential components of your home's roofing system, providing ventilation, protection, and aesthetic appeal. Damaged or deteriorated soffit and fascia can lead to moisture damage, pest infestations, and reduced energy efficiency. Arrow Roofing and Siding offers comprehensive soffit and fascia services to ensure your home is properly protected.\n\nWe provide installation, repair, and replacement services for all types of soffit and fascia materials, including vinyl, aluminum, and wood. Our experienced team will assess your home's needs and recommend the best solutions to enhance its protection and beauty. We pay close attention to detail, ensuring a seamless and weather-tight installation that will last for years to come.\n\nProperly installed and maintained soffit and fascia can prevent costly roof repairs and extend the lifespan of your home. Arrow Roofing and Siding is committed to delivering exceptional quality and customer satisfaction. We provide free estimates and stand behind our work with a satisfaction guarantee.",
+        "process": [
+          "Step 1: Inspection of existing soffit and fascia.",
+          "Step 2: Removal of damaged or deteriorated materials.",
+          "Step 3: Installation of new soffit and fascia.",
+          "Step 4: Sealing and painting for a finished look."
+        ],
+        "benefits": [
+          "Improved ventilation",
+          "Protection from moisture and pests",
+          "Enhanced curb appeal",
+          "Extended roof lifespan"
+        ],
+        "faq": [
+          {
+            "question": "What is the purpose of soffit and fascia?",
+            "answer": "Soffit provides ventilation to your attic, preventing moisture buildup and mold growth. Fascia provides a finished edge to your roof and supports the gutters."
+          },
+          {
+            "question": "How do I know if my soffit and fascia need repair?",
+            "answer": "Look for signs of damage, such as rot, peeling paint, or sagging. Also, check for pest infestations or water stains on interior walls."
+          },
+          {
+            "question": "What materials are used for soffit and fascia?",
+            "answer": "Soffit and fascia are typically made from vinyl, aluminum, or wood. We can help you choose the best material for your home's needs and budget."
+          }
+        ]
+      },
+      {
+        "slug": "siding-inspections",
+        "name": "Siding Inspections",
+        "shortDescription": "Comprehensive siding inspections to identify potential problems and protect your investment.",
+        "description": "Protect your home with a professional siding inspection from Arrow Roofing and Siding. Our comprehensive inspections can identify potential problems before they become costly repairs. We thoroughly assess your siding for damage, wear, and tear, providing you with a detailed report and recommendations for maintenance or repair.\n\nOur experienced inspectors understand the unique challenges that Columbus' climate poses to siding. We'll check for signs of moisture damage, pest infestations, and structural issues that could compromise your home's protection. We use advanced tools and techniques to ensure a thorough and accurate inspection.\n\nA siding inspection is a smart investment that can save you money in the long run. It can help you identify and address minor problems before they escalate into major repairs. Arrow Roofing and Siding is committed to providing reliable and professional inspection services. Schedule your siding inspection today and protect your home from the elements.",
+        "process": [
+          "Step 1: Visual inspection of siding for damage and wear.",
+          "Step 2: Moisture testing to identify potential leaks.",
+          "Step 3: Assessment of siding attachment and stability.",
+          "Step 4: Detailed report with findings and recommendations."
+        ],
+        "benefits": [
+          "Early detection of potential problems",
+          "Prevention of costly repairs",
+          "Improved home protection",
+          "Increased peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my siding inspected?",
+            "answer": "We recommend having your siding inspected every 1-2 years, especially if you live in an area with harsh weather conditions."
+          },
+          {
+            "question": "What is included in a siding inspection?",
+            "answer": "A siding inspection includes a thorough visual assessment of your siding, moisture testing, and an evaluation of the siding's attachment and stability. We'll provide you with a detailed report outlining our findings and recommendations."
+          },
+          {
+            "question": "How much does a siding inspection cost?",
+            "answer": "The cost of a siding inspection depends on the size of your home and the complexity of the inspection. Contact us for a free quote."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Dublin",
+        "slug": "dublin-oh",
+        "state": "OH",
+        "content": "Arrow Roofing and Siding is proud to serve the Dublin, Ohio community. Known for its upscale neighborhoods and meticulously planned subdivisions built primarily between the 1980s and 2000s, Dublin presents unique siding challenges and opportunities. We understand the specific architectural styles and aesthetic preferences common in areas like Tartan Fields and Jerome Village. We are experts at matching existing siding or upgrading to modern, energy-efficient materials. \n\nThe climate in Dublin, with its cold, snowy winters and frequent freeze-thaw cycles, can be particularly harsh on siding. This constant expansion and contraction can lead to cracks, warps, and other forms of damage. Arrow Roofing and Siding offers durable and weather-resistant siding options designed to withstand these conditions, protecting your home and enhancing its curb appeal. We are committed to providing Dublin homeowners with top-quality siding installation and repair services, ensuring long-lasting protection and beauty for their homes.",
+        "localContext": "Arrow Roofing and Siding understands the specific needs of Dublin homeowners, from matching the upscale aesthetic of the 1980s-2000s subdivisions to providing siding solutions that withstand the region's freeze-thaw cycles.",
+        "nearbyAreas": [
+          "Columbus",
+          "Powell",
+          "Hilliard"
+        ]
+      },
+      {
+        "city": "Westerville",
+        "slug": "westerville-oh",
+        "state": "OH",
+        "content": "Arrow Roofing and Siding is dedicated to serving the Westerville, Ohio community. Westerville, with its established suburbs primarily developed in the 1970s and 80s, features a diverse range of housing styles. We understand the common siding materials and construction techniques used in neighborhoods like Annehurst Village and Huber Ridge. Whether you need siding repair, replacement, or a completely new installation, our team is equipped to handle any project, big or small.\n\nThe climate in Westerville, like much of Central Ohio, experiences cold, snowy winters with frequent freeze-thaw cycles. This can cause significant damage to siding over time, leading to costly repairs. Arrow Roofing and Siding offers a variety of durable and weather-resistant siding options designed to protect your home from the elements and enhance its energy efficiency. We are committed to providing Westerville homeowners with reliable and affordable siding services, ensuring their homes remain beautiful and well-protected for years to come.",
+        "localContext": "Arrow Roofing and Siding specializes in serving Westerville, understanding the prevalent siding materials used in the 1970s-80s era homes and offering solutions to combat the effects of the area's freeze-thaw cycles.",
+        "nearbyAreas": [
+          "Columbus",
+          "Galena",
+          "Worthington"
+        ]
+      },
+      {
+        "city": "Hilliard",
+        "slug": "hilliard-oh",
+        "state": "OH",
+        "content": "Arrow Roofing and Siding is proud to offer its services to the Hilliard, Ohio community. Hilliard, known for its family-friendly subdivisions built mainly in the 1980s and 90s, presents a variety of siding needs. We are familiar with the common siding styles and materials found in neighborhoods like Britton Farms and Heritage Lakes. From vinyl siding repair to complete siding replacement, we have the expertise and experience to handle any project.\n\nThe climate in Hilliard, with its cold, snowy winters and fluctuating temperatures, can be particularly damaging to siding. The constant freeze-thaw cycle can lead to cracks, warps, and other forms of deterioration. Arrow Roofing and Siding offers a wide range of durable and weather-resistant siding options designed to withstand these conditions, protecting your home and enhancing its curb appeal. We are committed to providing Hilliard homeowners with top-quality siding services at competitive prices.",
+        "localContext": "Arrow Roofing and Siding caters to the Hilliard area, taking into account the siding characteristics of the 1980s-90s family subdivisions and providing solutions that address the challenges posed by the region's winter climate.",
+        "nearbyAreas": [
+          "Columbus",
+          "Dublin",
+          "Plain City"
+        ]
+      },
+      {
+        "city": "Grove City",
+        "slug": "grove-city-oh",
+        "state": "OH",
+        "content": "Arrow Roofing and Siding is pleased to serve the Grove City, Ohio area. Grove City, known for its affordable homes built primarily in the 1970s and 80s, presents a unique set of siding needs. We have extensive experience working with the common siding materials and styles found in neighborhoods like White Oak and Parkmead. Whether you need siding repair, replacement, or a new installation, our team is ready to assist you.\n\nThe climate in Grove City, with its cold, snowy winters and freeze-thaw cycles, can be particularly harsh on siding. This constant expansion and contraction can lead to cracks, warps, and other forms of damage. Arrow Roofing and Siding offers a variety of durable and weather-resistant siding options designed to protect your home from the elements and enhance its value. We are committed to providing Grove City homeowners with reliable and affordable siding services, ensuring their homes remain beautiful and well-protected for years to come.",
+        "localContext": "Arrow Roofing and Siding understands the specific siding needs of Grove City residents, considering the prevalent home styles from the 1970s-80s and providing solutions to combat the area's harsh winter weather.",
+        "nearbyAreas": [
+          "Columbus",
+          "Orient",
+          "Harrisburg"
+        ]
+      },
+      {
+        "city": "Powell",
+        "slug": "powell-oh",
+        "state": "OH",
+        "content": "Arrow Roofing and Siding extends its expert siding services to Powell, Ohio. Powell is known for its mix of established and newer homes, often featuring upscale designs. We understand the importance of maintaining the aesthetic appeal of your Powell home and offer a range of siding options to match your style, from classic to contemporary.\n\nLike the rest of Central Ohio, Powell experiences cold, snowy winters that can take a toll on your siding. Arrow Roofing and Siding provides durable, weather-resistant siding solutions that will protect your home from the elements and enhance its energy efficiency. We are dedicated to providing Powell homeowners with quality siding installation and repair services.",
+        "localContext": "Arrow Roofing and Siding provides siding solutions tailored to the diverse architectural styles found in Powell, ensuring both beauty and protection from the elements, especially during the harsh winters.",
+        "nearbyAreas": [
+          "Dublin",
+          "Delaware",
+          "Worthington"
+        ]
+      },
+      {
+        "city": "Worthington",
+        "slug": "worthington-oh",
+        "state": "OH",
+        "content": "Arrow Roofing and Siding is proud to serve the Worthington, Ohio community with top-notch siding services. Worthington, with its charming historic district and mix of older and newer homes, presents a variety of siding needs. We understand the importance of maintaining the character of your Worthington home while ensuring it is protected from the elements.\n\nThe climate in Worthington, like much of Central Ohio, experiences cold, snowy winters with frequent freeze-thaw cycles. This can lead to damage and deterioration of siding over time. Arrow Roofing and Siding offers a wide range of durable and weather-resistant siding options designed to withstand these conditions. We are committed to providing Worthington homeowners with reliable and affordable siding services, ensuring their homes remain beautiful and well-protected for years to come.",
+        "localContext": "Arrow Roofing and Siding is dedicated to providing siding solutions that complement the unique architectural styles of Worthington homes, ensuring both aesthetic appeal and long-lasting protection against the region's climate.",
+        "nearbyAreas": [
+          "Columbus",
+          "Dublin",
+          "Westerville"
+        ]
+      },
+      {
+        "city": "Delaware",
+        "slug": "delaware-oh",
+        "state": "OH",
+        "content": "Arrow Roofing and Siding is pleased to offer its siding services to the residents of Delaware, Ohio. Delaware features a mix of historic homes and newer developments, requiring a versatile approach to siding solutions. We understand the unique architectural styles and challenges that come with both older and newer homes in Delaware.\n\nThe climate in Delaware, with its cold winters and fluctuating temperatures, can be tough on siding. Arrow Roofing and Siding provides durable, weather-resistant siding options that will protect your home from the elements and enhance its curb appeal. We are committed to providing Delaware homeowners with quality siding installation and repair services at competitive prices.",
+        "localContext": "Arrow Roofing and Siding understands the diverse siding needs of Delaware homeowners, offering solutions that cater to both historic and modern architectural styles while providing superior weather protection.",
+        "nearbyAreas": [
+          "Powell",
+          "Sunbury",
+          "Galena"
+        ]
+      },
+      {
+        "city": "Reynoldsburg",
+        "slug": "reynoldsburg-oh",
+        "state": "OH",
+        "content": "Arrow Roofing and Siding is proud to offer professional siding services to the Reynoldsburg, Ohio community. Reynoldsburg features a diverse range of homes, from older, established neighborhoods to newer developments. We are experienced in working with various siding materials and styles, ensuring we can meet the unique needs of Reynoldsburg homeowners.\n\nThe climate in Reynoldsburg, like much of Central Ohio, experiences cold, snowy winters with fluctuating temperatures. This can cause significant damage to siding over time. Arrow Roofing and Siding offers durable and weather-resistant siding options designed to protect your home from the elements and enhance its energy efficiency. We are committed to providing Reynoldsburg homeowners with reliable and affordable siding services, ensuring their homes remain beautiful and well-protected for years to come.",
+        "localContext": "Arrow Roofing and Siding specializes in serving Reynoldsburg, understanding the diversity of housing styles and offering siding solutions that combat the effects of the area's climate.",
+        "nearbyAreas": [
+          "Columbus",
+          "Pickerington",
+          "Blacklick"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "John S.",
+        "rating": 5,
+        "service": "Vinyl Siding Installation",
+        "text": "Arrow Roofing and Siding did an outstanding job installing new vinyl siding on my home in Clintonville. The crew was professional, efficient, and meticulous. The new siding looks fantastic, and I've already noticed a difference in my energy bills. Highly recommend!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "Mary K.",
+        "rating": 4,
+        "service": "Siding Repair",
+        "text": "I had some storm damage to my fiber cement siding, and Arrow Roofing and Siding repaired it quickly and effectively. The repair is seamless, and you can't even tell there was any damage. Great service!",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Fiber Cement Siding Installation",
+        "text": "Arrow Roofing and Siding installed James Hardie siding on our Worthington home. The team was knowledgeable and helped us choose the perfect color and style. The installation was flawless, and our home looks amazing! Worth every penny.",
+        "date": "2024-09-12"
+      },
+      {
+        "name": "Sarah B.",
+        "rating": 5,
+        "service": "Soffit and Fascia Repair",
+        "text": "Arrow Roofing and Siding repaired our damaged soffit and fascia after a raccoon issue. They were prompt, courteous, and did a great job sealing everything up to prevent future problems. Excellent work!",
+        "date": "2024-08-05"
+      },
+      {
+        "name": "Tom R.",
+        "rating": 4,
+        "service": "Siding Inspection",
+        "text": "Arrow Roofing and Siding provided a thorough siding inspection before we purchased our new home in German Village. Their report helped us identify some potential issues and negotiate a better price. Highly recommended for pre-purchase inspections!",
+        "date": "2024-07-19"
+      },
+      {
+        "name": "Jennifer A.",
+        "rating": 5,
+        "service": "Vinyl Siding Replacement",
+        "text": "We had Arrow Roofing and Siding replace all the old, faded siding on our ranch home. The transformation is incredible! The crew was professional and cleaned up everything perfectly. Our home looks brand new!",
+        "date": "2024-06-02"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Arrow Roofing & Siding | Columbus, OH",
+        "description": "Columbus siding contractor: vinyl siding, fiber cement, siding repair & replacement. Free estimates! Call +16147777663."
+      },
+      "about": {
+        "title": "About Arrow Roofing & Siding",
+        "description": "Learn about Arrow Roofing & Siding's commitment to quality siding services in Columbus, OH. Local experts you can trust."
+      },
+      "services": {
+        "title": "Siding Services | Columbus, OH",
+        "description": "Arrow Roofing & Siding offers vinyl siding, fiber cement, siding repair, replacement & more in Columbus. Get a free estimate today!"
+      },
+      "contact": {
+        "title": "Contact Arrow Roofing & Siding",
+        "description": "Contact Arrow Roofing & Siding for siding services in Columbus, OH. Call +16147777663 for a free estimate."
+      },
+      "reviews": {
+        "title": "Arrow Roofing & Siding Reviews",
+        "description": "Read reviews for Arrow Roofing & Siding in Columbus, OH. See what our satisfied customers are saying about our siding services."
+      },
+      "service-areas": {
+        "title": "Siding Service Areas | Columbus, OH",
+        "description": "Arrow Roofing & Siding provides siding services throughout Columbus, OH and surrounding areas. Contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "vinyl-siding-installation": "/images/service-vinyl-siding-installation.webp",
+      "fiber-cement-siding-installation": "/images/service-fiber-cement-siding-installation.webp",
+      "siding-repair": "/images/service-siding-repair.webp",
+      "siding-replacement": "/images/service-siding-replacement.webp",
+      "soffit-and-fascia-services": "/images/service-soffit-and-fascia-services.webp",
+      "siding-inspections": "/images/service-siding-inspections.webp"
+    },
+    "servicesResponsive": {
+      "vinyl-siding-installation": {
+        "src": "/images/service-vinyl-siding-installation.webp",
+        "srcset": "/images/service-vinyl-siding-installation-400w.webp 400w, /images/service-vinyl-siding-installation-800w.webp 800w, /images/service-vinyl-siding-installation-1200w.webp 1200w, /images/service-vinyl-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fiber-cement-siding-installation": {
+        "src": "/images/service-fiber-cement-siding-installation.webp",
+        "srcset": "/images/service-fiber-cement-siding-installation-400w.webp 400w, /images/service-fiber-cement-siding-installation-800w.webp 800w, /images/service-fiber-cement-siding-installation-1200w.webp 1200w, /images/service-fiber-cement-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-repair": {
+        "src": "/images/service-siding-repair.webp",
+        "srcset": "/images/service-siding-repair-400w.webp 400w, /images/service-siding-repair-800w.webp 800w, /images/service-siding-repair-1200w.webp 1200w, /images/service-siding-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-replacement": {
+        "src": "/images/service-siding-replacement.webp",
+        "srcset": "/images/service-siding-replacement-400w.webp 400w, /images/service-siding-replacement-800w.webp 800w, /images/service-siding-replacement-1200w.webp 1200w, /images/service-siding-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "soffit-and-fascia-services": {
+        "src": "/images/service-soffit-and-fascia-services.webp",
+        "srcset": "/images/service-soffit-and-fascia-services-400w.webp 400w, /images/service-soffit-and-fascia-services-800w.webp 800w, /images/service-soffit-and-fascia-services-1200w.webp 1200w, /images/service-soffit-and-fascia-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-inspections": {
+        "src": "/images/service-siding-inspections.webp",
+        "srcset": "/images/service-siding-inspections-400w.webp 400w, /images/service-siding-inspections-800w.webp 800w, /images/service-siding-inspections-1200w.webp 1200w, /images/service-siding-inspections.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
